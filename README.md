@@ -1,2 +1,2 @@
-# recommander-system
- recommander system with MapReduce
+# recommender system
+ recommender system with MapReduce
